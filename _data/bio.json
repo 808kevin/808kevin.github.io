@@ -46,26 +46,19 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Vietnamese",
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Microsoft Office",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Excel",
+        "Word",
+        "Powerpoint",
       ]
     }
   ],
@@ -83,10 +76,10 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "University of Hawai‘i at Mānoa William S. Richardson School of Law",
+      "position": "IT Support Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2020-02-01",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
