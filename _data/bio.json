@@ -1,95 +1,98 @@
 {
-  "basics": {
-    "name": "Kevin Nguyen",
-    "label": "Shidler Undergraduate",
-    "picture": "https://808kevin.github.io/images/IMG_2786.JPG",
-    "email": "kn42@hawaii.edu",
-    "phone": "808-386-1764",
-    "website": "https://808kevin.github.io",
-    "summary": "I am studying for a B.B.A. in Management Information Systems at Shidler College of Business. I expect to graduate in Spring, 2022.",
-    "location": {
-      "address": "",
-      "postalCode": "96821",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
+   "basics":{
+      "name":"Kevin Nguyen",
+      "label":"Shidler Undergraduate",
+      "picture":"https://808kevin.github.io/images/IMG_2786.JPG",
+      "email":"kn42@hawaii.edu",
+      "phone":"808-386-1764",
+      "website":"https://808kevin.github.io",
+      "summary":"I am studying for a B.B.A. in Management Information Systems at Shidler College of Business. I expect to graduate in Spring, 2022.",
+      "location":{
+         "address":"",
+         "postalCode":"96821",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"808kevin",
+            "url":"http://github.com/808kevin"
+         },
+         {
+            "network":"linkedin",
+            "username":"kevinnguyen",
+            "url":"https://www.linkedin.com/in/kevin-nguyen-6910661b6/"
+         }
+      ]
+   },
+   "interests":[
       {
-        "network": "github",
-        "username": "808kevin",
-        "url": "http://github.com/808kevin"
+         "name":"Cars",
+         "keywords":[
+            
+         ]
       },
       {
-        "network": "linkedin",
-        "username": "kevinnguyen",
-        "url": "https://www.linkedin.com/in/kevin-nguyen-6910661b6/"
+         "name":"Gaming",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"Beach",
+         "keywords":[
+            
+         ]
       }
-    ]
-  },
-  "interests": [
-    {
-      "name": "Cars",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Gaming",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Beach",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Bilingual",
-      "level": "",
-      "keywords": [
-        "English",
-        "Vietnamese",
-      ]
-    },
-    {
-      "name": "Microsoft Office",
-      "level": "",
-      "keywords": [
-        "Excel",
-        "Word",
-        "Powerpoint",
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Shidler College of Business | University of Hawaii at Manoa",
-      "area": "B.B.A, Management Information System (Expected Spring 2022)",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "Present"
-    }
-  ],
-  "work": [
-    {
-      "company": "University of Hawai‘i at Mānoa William S. Richardson School of Law",
-      "position": "IT Support Assistant",
-      "website": "",
-      "startDate": "2020-02-01",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues",
-        "Answer phone and email responses for Law IT Department"
-      ]
-    },
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+   ],
+   "skills":[
+      {
+         "name":"Bilingual",
+         "level":"",
+         "keywords":[
+            "English",
+            "Vietnamese"
+         ]
+      },
+      {
+         "name":"Microsoft Office",
+         "level":"",
+         "keywords":[
+            "Excel",
+            "Word",
+            "Powerpoint"
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"Shidler College of Business | University of Hawaii at Manoa",
+         "area":"B.B.A, Management Information System (Expected Spring 2022)",
+         "studyType":"",
+         "startDate":"",
+         "endDate":"Present"
+      }
+   ],
+   "work":[
+      {
+         "company":"University of Hawai‘i at Mānoa William S. Richardson School of Law",
+         "position":"IT Support Assistant",
+         "website":"",
+         "startDate":"2020-02-01",
+         "endDate":"Present",
+         "summary":"",
+         "highlights":[
+            "Troubleshoot software, hardware and networking issues",
+            "Answer phone and email responses for Law IT Department"
+         ]
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request",
+         "reference":""
+      }
+   ]
 }
