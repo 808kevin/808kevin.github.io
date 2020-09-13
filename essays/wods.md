@@ -1,8 +1,11 @@
+---
 layout: essay
 type: essay
-title: UI Basics Technical Essay
+title: E1: UI Basics Technical Essay
 date: 2020-09-12
 labels:
+
+---
 
 
 For BrowserHistory1 I took 3 attempts and with the final one I finished it in around 16 minutes. For the first attempt I read the instructions of what to do and went back into the readings to locate which code to use and tried to memorize which ones I needed. Knowing my memory isn't the best, I struggled trying to piece the codes togther in a quickly manner and was getting frustrated that I couldn't it get down.The next attempt I tried to have the readings with the coding in a separate monitor so if I got stuck I would could go look for the code I needed to use, doing so I didn't try to memorize the code more which was a big mistake because I relied on the readings too much so in the end I still couldn't complete it in time since I was going back and forth to find the code. Finally, I decided to watch to watch the screencast, I watched it multiple times to see how it was done, trying to memorize as much as possible. I also read the code in the readings to make sure I had an understanding of what was happening and to make sure I was typing the correct things in. Doing these things helped me complete the assigment efficiently. My advice is to read the instructions, go into the readings to double check your understanding of what is happening and what to input, maybe have the readings out just in case you forget how to type it out (for me it was the list I put "il" instead of "li").
