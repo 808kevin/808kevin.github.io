@@ -4,7 +4,6 @@ type: essay
 title: E1: UI Basics Technical Essay
 date: 2020-09-12
 labels:
-
 ---
 
 
