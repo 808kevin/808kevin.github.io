@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: E1 UI Basics Technical Essay
-date: 2015-08-26
+date: 2020-09-13
 labels:
 ---
 
