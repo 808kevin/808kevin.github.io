@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: E5 Progress in Programming
+title: E4 Progress in Programming
 date: 2020-11-09
 ---
 My programming skills have improved since in the very beginning of the semester I had no idea how coding worked or even where to start with learning how to code, I will say that my understanding of coding is not the best but it's better than knowing nothing. I have the general idea of how coding works but I still need to learn the specifics of coding. What I need to work on to improve my programming skills is get a better understanding of the specific code I learn or be able to understand what a certain code does instead of doing trial and error with a bunch of code.
