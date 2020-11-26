@@ -6,17 +6,17 @@ date: 2020-11-25
 
 1.Provide a brief introduction to the assignment along with a link to this page for further details
 
-Assignment 2 is a continuation of assignment 1 with more requirements. The website now required a login/registration page before being able to access the invoice page. In the login and registration page we had to have specific requirements like an amount of characters allowed for a password or only using lower case, etc.
+Assignment 2 is a continuation of assignment 1 with more requirements. The website required a login/registration page before being able to access the invoice page. In the login and registration page we had to have specific requirements like an amount of characters allowed for a password or only using lowercase, etc.
 
 https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2_retrospective.html
 
 2.What did you learn from this assignment?
 
-One thing I learned from this assignment that I found interesting the login/registration part. The part where the data inputed for the login/registration goes through several guidelines to make sure everything is correct and then saving it was interesting. Outside of the requirements of the project I learned to take my time with things and if I got stuck on something I would take a small break to gather my thoughts instead of fustrating myself even more. Another thing I learned was to get help early.
+One thing I learned from this assignment that I found interesting was the login/registration part. The part where the data inputed for the login/registration that then goes through several guidelines to make sure everything is correct and then saving it was interesting. Outside of the requirements of the project I learned to take my time with things and if I got stuck on something I would take a small break to gather my thoughts instead of fustrating myself even more. Another thing I learned was to get help early.
 
 3.Did you work with a partner? Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself).
 
-The assignment was done individually.
+The assignment was done individually but I did got a lot of help from a classmate and Professor Port.
 
 4.How did you get help when you needed it? What did you need help with?
 
