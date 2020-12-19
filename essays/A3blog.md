@@ -34,4 +34,4 @@ The thing that I am least happy about this project would be the missing features
 
 8.Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself) and explain briefly your rationale for the percentage breakdown. Be sure to include an overview of what specifically you and your partners contributed (e.g. "I worked on the security and my partner 1 worked on personalization"):
 
-I didn't have a partner working on one assignment but I got a lot of help from Professor Port and Daphne and Alyssa. Thank you to these people and especially to Professor Port who had the patience to help me at the last minute. 
+I didn't have a partner working on one assignment but I got a lot of help from Professor Port, Daphne. Thank you to Daphne for the help when I was stuck and needed another person to look through my code and also b supportive. Big thanks to Professor Port who had the patience to help me at the last minute and all the other times for Assignment 1 and Assignment 2.
