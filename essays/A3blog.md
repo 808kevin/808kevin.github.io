@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Assignment 3 Blog
+title: Assignment 3 Evaluation Guidelines and Class Retrospective Blog
 date: 2020-12-28
 ---
 1.What was accomplished in the project as compared to what was planned?
