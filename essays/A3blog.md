@@ -10,7 +10,7 @@ For this project I wasn't able to accomplish everything I had in mind but I'm gl
 
 2.Any notable shortcomings, bugs, problems, or additional features not implemented?
 
-Some additional features not impletemented would be a logout button, a thing where it shows a cart has been edited, personalization on every page after logging in (I only have it on the invoice), and also thing where it shows a person is logged in. Another thing is in the cart there's not a way to edit the quantities or remove them, the way I did it was where it just took you back to the products page to edit the products there. 
+Some additional features not impletemented would be a logout button, a thing where it shows a cart has been edited, personalization on every page after logging in (I only have it on the invoice), and also thing where it shows a person is logged in. Another thing is in the cart there's not a way to edit the quantities or remove them, the way I did it was where it just took you back to the products page to edit the products there. A shortcoming would be the user logging in and stuff, different users could switch and the products would still stay the same.
 
 3.What was your biggest project risk and how was it managed?
 
@@ -18,15 +18,15 @@ My biggest risk in this assignment was using templates for the styling. I wasn't
 
 4.What is your assessment of the overall quality of the system?
 
-If the assessment of the overall quality of the system was based on a scale of 1-10, I think I would give myself a 7 because from what I see I only have the basic structure of the site with a little specific functions, the parts that I am missing are what makes a more professional ecommerce website.
+If the assessment of the overall quality of the system was based on a scale of 1-10, I think I would give myself a 6.5-7 because I only have the basic structure of the site with a little specific functions, the parts that I am missing are what makes a more professional ecommerce website.
 
 5.What is needed before this system can be placed into operation?
 
-Things that are needed before this system can be placed into operation would be a logout button that kills the session, an icon that shows a cart has been edited, a function where it shows a person is logged in. Another thing is in the cart there's not a way to edit the quantities or remove them, the way I did it was where it just took you back to the products page to edit the products there. The biggest thing would be the security for the user information.
+Things that are needed before this system can be placed into operation would be a logout button that kills the session and clears it out for another user, an icon that shows a cart has been edited, a function where it shows a person is logged in. Another thing is in the cart there's not a way to edit the quantities or remove them, the way I did it was where it just took you back to the products page to edit the products there. One of the biggest thing would be the security for the user informations.
 
 6.Describe what you are most proud of about this project:
 
-The thing that I am most proud of this project would honestly be just how everything worked in the end. All the things connecting to each other was really cool and even though I had to get a lot of help (shoutout to Professor Port, Daphe Oh and Alyssa Mencel) it was a "fun" ride to learn this stuff.
+The thing that I am most proud of this project would honestly be just how everything worked in the end, even though there are a few small things that would improve the site I'm happy with things just functioning. All the things connecting to each other was really cool and even though I had to get a lot of help (shoutout to Professor Port, Daphe Oh and Alyssa Mencel) it was a fun (but incredibly fustrating) ride to learn this stuff.
 
 7.Describe what you are least happy with this project:
 
@@ -34,4 +34,4 @@ The thing that I am least happy about this project would be the missing features
 
 8.Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself) and explain briefly your rationale for the percentage breakdown. Be sure to include an overview of what specifically you and your partners contributed (e.g. "I worked on the security and my partner 1 worked on personalization"):
 
-I didn't have a partner working on one assignment but I got a lot of help from Professor Port, Daphne. Thank you to Daphne for the help when I was stuck and needed another person to look through my code and also b supportive. Big thanks to Professor Port who had the patience to help me at the last minute and all the other times for Assignment 1 and Assignment 2.
+I didn't have a partner working on one assignment but I got a lot of help from Professor Port, Daphne. Thank you to Daphne for the help when I was stuck and needed another person to look through my code and for being supportive. Big thanks to Professor Port who had the patience to help me at the last minute and all the other times for Assignment 1 and Assignment 2.
